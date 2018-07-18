@@ -8,5 +8,5 @@ Pattern | Notes | Link
 `ecs` | TODO | TODO
 `lambda` | TODO | TODO
 `nlb` | TODO | TODO
-`alb' | TODO | TODO
-`elb-ssl' | Classic Load Balancer using SSL | TODO
+`alb` | TODO | TODO
+`elb-ssl` | Classic Load Balancer using SSL | TODO
